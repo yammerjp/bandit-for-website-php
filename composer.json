@@ -1,0 +1,21 @@
+{
+    "name": "yammerjp/bandit-for-website-php",
+    "description": "The demo of bandit argolism for website optimization",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yammerjp\\BanditForWebsitePhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Keisuke Nakayama",
+            "email": "me@yammer.jp"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "davefx/phplot": "^6.2"
+    }
+}
